@@ -1,6 +1,8 @@
 # Pneumonia Detection AI Warrior Documentation
 
-##  CODE EXPLANATION PROVIDED IN IPYNB FILE  
+------------------------CODE EXPLANATION PROVIDED IN IPYNB FILE ------------------------------
+
+### DATASET - https://www.kaggle.com/code/paulinavr/chest-xray-pneumonia-avril-paulin/input
 
 ## Introduction
 
