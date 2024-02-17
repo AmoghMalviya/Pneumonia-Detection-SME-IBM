@@ -1,5 +1,7 @@
 # Pneumonia Detection AI Warrior Documentation
 
+## * CODE EXPLANATION PROVIDED IN IPYNB FILE *  
+
 ## Introduction
 
 ### Project Overview
